@@ -36,13 +36,6 @@ Estudiante de Ingeniería en Informática en el IPN (UPIICSA) y desarrollador Fu
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexSAdeCV&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSAdeCV&layout=compact&theme=radical)
-
----
-
 ### 📫 Contacto
 - **GitHub:** [@AlexSAdeCV](https://github.com/AlexSAdeCV)
 - **LinkedIn:** [Alejandro Serrano Acosta](https://linkedin.com/in/alejandro-acosta-6220131a3)
