@@ -45,5 +45,5 @@ Estudiante de Ingeniería en Informática en el IPN (UPIICSA) y desarrollador Fu
 
 ### 📫 Contacto
 - **GitHub:** [@AlexSAdeCV](https://github.com/AlexSAdeCV)
-- **LinkedIn:** [Alejandro Serrano Acosta](https://linkedin.com/in/TU-ENLACE-AQUI)
+- **LinkedIn:** [Alejandro Serrano Acosta](https://linkedin.com/in/alejandro-acosta-6220131a3)
 - **Correo:** aserranoacosta841@gmail.com
