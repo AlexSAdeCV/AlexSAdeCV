@@ -39,8 +39,8 @@ Estudiante de Ingeniería en Informática en el IPN (UPIICSA) y desarrollador Fu
 ### 📊 Estadísticas de GitHub
 *(Reemplaza `TU_USUARIO` con tu username real de GitHub)*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexSAdeCV&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSAdeCV&layout=compact&theme=radical)
 
 ---
 
